@@ -1,9 +1,11 @@
 # ProyectoPokemon
 Requerimientos Funcionales 
 
-Leer archivo tipo csv que contiene la lista de movimientos 
+Leer archivo tipo csv que contiene la lista de movimientos
+
 Introducir nombre y tipo de pokemon
-Acorde con el tipo de pokemon introducido asignarle 4 movimientos 
+
+Acorde con el tipo de pokemon introducido asignarle 4 movimientos
 Crear pokemon con nombre, tipo y 4 movimientos 
 Mostrar la informacion del pokemon creado 
 Crear equipo del jugador compuesto por 4 Pokemon
