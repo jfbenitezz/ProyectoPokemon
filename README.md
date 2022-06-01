@@ -1,5 +1,6 @@
 # ProyectoPokemon
 Requerimientos Funcionales 
+
 Leer archivo tipo csv que contiene la lista de movimientos 
 Introducir nombre y tipo de pokemon
 Acorde con el tipo de pokemon introducido asignarle 4 movimientos 
