@@ -1,1 +1,2 @@
 # ProyectoPokemon
+Requerimientos Funcionales 
